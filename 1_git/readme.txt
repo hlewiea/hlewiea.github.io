@@ -1,3 +1,1 @@
-Git is a distribusion version control system.
-Git is free software distributed under the GPL.
-Git tracks change.
+参照学习链接：https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/Git/#git_1
